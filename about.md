@@ -4,8 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Wely is your average coder, geek, and aloof guy who wrote this silly collection of thoughts (deemed important or worth sharing).
+He wishes that he can really do something mind-blowingly cool. Like save the world, maybe. Or Emma Watson. Haha. 
+He codes in javascript, PHP, and more recently, python. He's currently busting his ass studying machine learning systems.
+I'd like to add more but that's all I got for now.
