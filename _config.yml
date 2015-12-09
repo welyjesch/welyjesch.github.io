@@ -2,11 +2,8 @@
 title: "wely writes"
 email: "welyjesch@gmail.com"
 description: > # this means to ignore newlines until "baseurl:"
-  wely is your average coder, geek, and aloof guy who wrote this
-  silly collection of thoughts (deemed important or worth sharing) 
-  which were actually random things / musing gathered through out the day
-  during the times when he stares off into space, wondering about life
-  and the universe
+  something might be wrong with you if you're reading this. 
+  this guy is like totally boring.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://welyjs.github.io" # the base hostname & protocol for your site
 twitter_username: "welyjs"
