@@ -6,7 +6,7 @@ categories: side-project machine-learning
 ---
 A year ago, I've made a data miner / scraper for philippine jurisprudence. My initial plan for this was to create an API that would allow
 any user to query any given tag, or term, like 'criminal law' or 'lukban v. villavicencio', mostly because I was interested in exploring
-flask and implementing API standards. Useful as a jurisprudence API, may seem to be,
+flask, implementing API standards and using elasticsearch library for nodejs. Useful as a jurisprudence API, may seem to be,
 it seems hardly practical as there are already ebooks and pages online that has digested such cases.
 So I'm thinking of using this project instead to apply some of the things I'll be studying, with regards to data science, and
 machine learning.  I'm actually excited to embark on this project, as I had been discovering many interesting implementations
