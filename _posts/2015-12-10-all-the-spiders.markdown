@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "All the spiders"
-date:   2015-12-09 01:03:44
+date:   2015-12-10 15:50:55
 categories: side-project machine-learning
 ---
 I started working on the various parts of this side project. It would had been easier doing services/consumers via php.
