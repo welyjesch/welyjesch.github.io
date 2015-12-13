@@ -11,4 +11,9 @@ I can also export the published book as epub, so it's a double win for me, since
 I get bored during commute and stuff. Anyway, one thing at a time though. I've cleaned up my old stuff in my Analytics account.
 It seems like my accounts/websites have accumulated over the years. hahaha
 
-Anyway, you can check out the gitbook page for coiling dragon at https://www.gitbook.com/book/welyjesch/coiling-dragon/details
+Anyway, you can check out the published book at [Gitbook][gitbook-link]. It consists of 21 books, with over 800 chapters. 
+I still haven't individually cleaned each chapter but I'll be working on that the next time I get bored. lol. Been reading a bunch of python-related stuff,
+that are just a bit frustrating since some are a bit old and exceptions one-after-another had been popping out (ipython notebook / jupyter sh*t). 
+thankfully, I've been using vagrant (VMs) to reset the environment whenever things get too messed up.
+
+[gitbook-link]: https://www.gitbook.com/book/welyjesch/coiling-dragon/details
