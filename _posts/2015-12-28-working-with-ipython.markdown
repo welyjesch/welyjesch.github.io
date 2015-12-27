@@ -8,4 +8,7 @@ A couple of weeks ago, I started studying machine learning. However, after check
 
 Anyway, I went home to the province. Aside from reading and trying a bunch of data science walkthroughs/tutorials, I'm also catching up on a bunch of tv series, movies, and games that I had to forego during the time I had been utterly busy with work. Also, I'll be taking the actual coursera course for ML tomorrow. I'm still looking for a better internet service provider here so I could keep up with the course. After that, maybe renew my passport and go couchsurfing for the time being, maybe?
 
+Interesting [security case study][instagramcasestudy] by instagram
+
 [pythonnotebooks]: https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks
+[instagramcasestudy]: https://summitroute.com/blog/2015/12/24/instagram_bounty_case_study_for_defense/
