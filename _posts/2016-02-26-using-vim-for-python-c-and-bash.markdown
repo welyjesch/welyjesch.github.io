@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "using vim for python c and bash scripts"
-date:   2016-2-13 11:03:44
+date:   2016-2-26 15:00:00
 categories: side-project smart-is-shit
 ---
 As before the general problem that I had when working on algorithm problems online is my data subscription limits. Either because I exceeded my "data budget" or my subscription expired. Needless to say, the internet service Smart provides is really terrible when it comes to their prepaid users. It reminds me of the Dialup days, which is a whole lot better considering the 1kbps speed my connections gives me. I wasted more than a few times calling their hotline. I've used nethogs, nload and netstat to check why I'm getting only 1-10kbps when my router states that I'm getting 60+kbps. This leads me to believe that Smart intentionally fools their customers thinking they had a better connection than what they provide by presenting false data in their router management software. 
